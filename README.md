@@ -39,7 +39,7 @@ module shift_reg (
 endmodule
 ```
 
-Testbench Program
+##Testbench Program
 ```
 // gedit tb6.v
  
